@@ -1,1 +1,3 @@
 # UFOs
+
+In this module, I created a table to organize UFO data that is stored as a JavaScript array, or list and created filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing. In addition, I customized my webpage using Bootstrap including multiple function buttons, and equip the table with several fully functional filters that will allow users to interact with our visualizations. The ability to pinpoint a search by date and country, for example, would go a long way in providing more in-depth analysis of UFO sightings.
